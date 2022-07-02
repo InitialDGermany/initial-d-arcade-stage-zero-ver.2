@@ -1,4 +1,4 @@
-# initial d arcade stage zero
+# initial d arcade stage zero ver 2
 
 
 follow the video : https://www.youtube.com/watch?v=9c4i6U21xzg
