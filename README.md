@@ -10,6 +10,8 @@ WARNING you need as keybind Insert AIME Card because you have to load the card i
 All game files can be found here: https://www.mediafire.com/file/g3wjw67wy4wadxd/INITIAL_D_ARCADE_STAGE_ZERO.zip/file
 
 
+
+
 folgen Sie dem Video : https://www.youtube.com/watch?v=9c4i6U21xzg
 
 das spiel hat eine auflösung von 1920x1080 man kann die dateien dafür einbauen und wie man es macht wird im video gezeigt auch wie man das spiel speichert wird gezeigt also macht alles was im video gezeigt wird so 1zu1 nach sonst wird es nichts sein 
@@ -17,6 +19,8 @@ das spiel hat eine auflösung von 1920x1080 man kann die dateien dafür einbauen
 ACHTUNG ihr braucht als Keybind Insert AIME Card weil ihr die Karte im Menü laden müsst, wenn ihr keinen Keybind dafür habt, könnt ihr kein Savegame machen!
 
 Alle Spieldateien können hier gefunden werden: https://www.mediafire.com/file/g3wjw67wy4wadxd/INITIAL_D_ARCADE_STAGE_ZERO.zip/file
+
+
 
 
 sigue el video : https://www.youtube.com/watch?v=9c4i6U21xzg
@@ -28,6 +32,8 @@ el juego tiene una resolución de 1920x1080 se puede encajar los archivos para e
 Todos los archivos del juego se pueden encontrar aquí: https://www.mediafire.com/file/g3wjw67wy4wadxd/INITIAL_D_ARCADE_STAGE_ZERO.zip/file
 
 
+
+
 seguite il video: https://www.youtube.com/watch?v=9c4i6U21xzg
 
 il gioco ha una risoluzione di 1920x1080 si può adattare i file per esso e come farlo sono mostrati nel video anche come salvare il gioco è mostrato quindi fare tutto ciò che è mostrato nel video così 1to1 dopo altrimenti sarà nulla 
@@ -35,6 +41,8 @@ il gioco ha una risoluzione di 1920x1080 si può adattare i file per esso e come
 ATTENZIONE è necessario avere come keybind Insert AIME Card perché bisogna caricare la scheda nel menu se non si ha un keybind per essa non si potrà avere un savegame!
 
 Tutti i file di gioco si trovano qui: https://www.mediafire.com/file/g3wjw67wy4wadxd/INITIAL_D_ARCADE_STAGE_ZERO.zip/file
+
+
 
 
 ビデオに従ってください : https://www.youtube.com/watch?v=9c4i6U21xzg
