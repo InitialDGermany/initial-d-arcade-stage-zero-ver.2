@@ -53,4 +53,4 @@ Tutti i file di gioco si trovano qui: https://www.mediafire.com/file/g3wjw67wy4w
 
 すべてのゲームファイルはここで見つけることができます: https://www.mediafire.com/file/g3wjw67wy4wadxd/INITIAL_D_ARCADE_STAGE_ZERO.zip/file
 
-##made by InitialD international 2022-07-07##
+# made by InitialD international 2022-07-07
